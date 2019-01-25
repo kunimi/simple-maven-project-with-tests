@@ -19,7 +19,6 @@
                 <configuration>
                    <useSystemClassLoader>false</useSystemClassLoader>
                 </configuration>
-                <version>2.18.1</version>
             </plugin>
         </plugins>
     </build>
